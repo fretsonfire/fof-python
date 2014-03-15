@@ -1,0 +1,156 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Ah yes, I know. I'm amazing."
+msgstr "Ach, wiem że wymiatam."
+
+msgid "Ah, that was cool."
+msgstr "Taa, to było dobre."
+
+msgid "Und hello everyone."
+msgstr "A, siema wszystkim."
+
+msgid "My name is Jurgen"
+msgstr "Nazywam się Jurgen"
+
+msgid "Guntherswarchzhaffenstrassen."
+msgstr "Guntherswarchzhaffenstrassen."
+
+msgid "Und today I will show you"
+msgstr "Dzisiaj pokażę wam"
+
+msgid "how to play this game."
+msgstr "jak pykać w tą gierkę."
+
+msgid "Check this sh*t!"
+msgstr "Obczajcie to gów*o!"
+
+msgid "And now, pick up your keyboard"
+msgstr "A teraz chwyćcie swoją klawkę"
+
+msgid "like this."
+msgstr "o tak!"
+
+msgid "When I shred,"
+msgstr "Kiedy ja gram,"
+
+msgid "I use the whole keyboard."
+msgstr "Używam całej klawiatury"
+
+msgid "But since you SUCK,"
+msgstr "Jednak dopóki CHRZANICIE,"
+
+msgid "You will only need"
+msgstr "Będziecie potrzebowali tylko"
+
+msgid "These five frets,"
+msgstr "Tych pięciu progów,"
+
+msgid "Und zie Pick button."
+msgstr "I przycisku szarpania."
+
+msgid "However, zie most important"
+msgstr "Jednak najważniejszym przyciskiem"
+
+msgid "is the Escape button."
+msgstr "jest klawisz Escape."
+
+msgid "You will need it,"
+msgstr "Będziecie go potrzebowali,"
+
+msgid "when you finally realize"
+msgstr "kiedy w końcu zrozumiecie"
+
+msgid "that you SUCK."
+msgstr "że CHRZANICIE."
+
+msgid "Bigtime."
+msgstr "Szansa na sukces."
+
+msgid "To me, that is already obvious."
+msgstr "Dla mnie to pestka."
+
+msgid "Ok, there comes your first note."
+msgstr "Ok, nadjeżdża wasza pierwsza nutka."
+
+msgid "You can already hold down the 1st fret"
+msgstr "Możecie juz przytrzymać pierwszy próg"
+
+msgid "BUT DON'T PICK IT YET!"
+msgstr "ALE NIE SZARPCIE STRUNY!"
+
+msgid "You missed it."
+msgstr "No i spudłowaliście."
+
+msgid "Ok, let's try it again."
+msgstr "Ok, spróbujmy jeszcze raz."
+
+msgid "Ok, wait for it."
+msgstr "Ok, czekajcie..."
+
+msgid "Wait for it."
+msgstr "Czekajcie..."
+
+msgid "No!"
+msgstr "Nie!"
+
+msgid "*Sigh*"
+msgstr "*Ehh*"
+
+msgid "Now, hold down two frets."
+msgstr "Dobra, teraz dwa progi."
+
+msgid "Ah, you missed it!"
+msgstr "Ach, znowu pudło!"
+
+msgid "And now, try this super easy lick."
+msgstr "A teraz spróbujcie tej łatwizny."
+
+msgid "Und up to my tempo."
+msgstr "Przejdźmy na moje tempo."
+
+msgid "Don't try this,"
+msgstr "Nie próbujcie tego w domu,"
+
+msgid "or you'll just hurt yourself."
+msgstr "bo się pokaleczycie."
+
+msgid "Ok, that was about"
+msgstr "Ok, to było coś około"
+
+msgid "four billion notes per second."
+msgstr "czterech bilionów nut na sekundę."
+
+msgid "If I play that any faster,"
+msgstr "Jeśli zagrałbym to choć trochę szybciej,"
+
+msgid "your minds would just blow up."
+msgstr "To wysadziłoby wam mózgi."
+
+msgid "Ok, that is it for now."
+msgstr "Ok, to by było na tyle."
+
+msgid "You can now go and sell"
+msgstr "Teraz możecie opylić"
+
+msgid "your keyboards on Ebay."
+msgstr "swoje klawki na Allegro."
+
+msgid "Because you SUCK."
+msgstr "Bo CHRZANICIE."
+
+msgid "And remember one thing."
+msgstr "I pamiętajcie jedną rzecz."
+
+msgid "I am your new god, little girls."
+msgstr "Jestem Waszym nowym bogiem, małe."
+
